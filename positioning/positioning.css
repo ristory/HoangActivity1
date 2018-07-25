@@ -1,0 +1,26 @@
+#fixed
+{
+    height: 50px; 
+    width: 100px;
+    position:fixed;
+    background-color: grey;
+}
+
+#relative
+{
+    height: 50px; 
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    position:relative;
+    background-color: grey;
+}
+
+#absolute
+{
+    height: 20px; 
+    width: 30px;
+    margin-left: 50px;
+    position: absolute;
+    background-color: red;
+}
